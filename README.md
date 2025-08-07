@@ -25,5 +25,4 @@ It includes modern layout sections like Hero Banner, Features, Download Area, FA
 
 ---
 
-## 📂 Folder Structure
 
